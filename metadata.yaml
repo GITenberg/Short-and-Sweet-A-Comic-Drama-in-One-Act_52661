@@ -1,5 +1,8 @@
 _repo: Short-and-Sweet-A-Comic-Drama-in-One-Act_52661
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52661-h/images/cover.jpg
 creator:
   author:
     agent_name: Troughton, Adolphus Charles
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '46956'
     url: http://www.gutenberg.org/2009/agents/46956
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52661#Short-and-Sweet-A-Comic-Drama-in-One-Act
 gutenberg_issued: '2016-07-27'
 gutenberg_type: Text
 identifiers:
